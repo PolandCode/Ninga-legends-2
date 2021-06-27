@@ -628,5 +628,5 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0.484157
 end)
 local CategoryVariableHere= Lib:Category("Credits")
 CategoryVariableHere:Label("Credits to a r q for ui liba")
-CategoryVariableHere:Label("Credits to DekuDimz#7960 aka me lol")
+CategoryVariableHere:Label("Credits to Poland   or ox1_xo on roblox )
 Lib:Reload()
